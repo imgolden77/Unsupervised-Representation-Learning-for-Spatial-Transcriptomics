@@ -27,7 +27,7 @@ Please cite the original paper if you utilize the core model architecture:
   year={2023},
   publisher={Cold Spring Harbor Laboratory}
 }
-
+```
 ## 🌟 Overview
 
 This repository contains the code and resources related to the Short paper, **"Benchmarking a Spatial-Aware Foundation Model: An Empirical Evaluation of CellPLM in Transcriptomics."** The work focuses on extensively **evaluating** the **CellPLM** (Cell Pre-trained Language Model) foundation model, a Transformer-based architecture designed for single-cell and spatial transcriptomics (ST) data analysis.
