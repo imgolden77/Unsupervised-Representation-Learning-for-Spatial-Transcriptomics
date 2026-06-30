@@ -28,6 +28,7 @@ Please cite the original paper if you utilize the core model architecture:
   publisher={Cold Spring Harbor Laboratory}
 }
 ```
+
 ## 🌟 Overview
 
 This repository contains the code and resources related to the Short paper, **"Benchmarking a Spatial-Aware Foundation Model: An Empirical Evaluation of CellPLM in Transcriptomics."** The work focuses on extensively **evaluating** the **CellPLM** (Cell Pre-trained Language Model) foundation model, a Transformer-based architecture designed for single-cell and spatial transcriptomics (ST) data analysis.
@@ -47,7 +48,7 @@ The project makes several crucial contributions, particularly in the area of fin
 | **ST Imputation** | DLPFC Visium, MERFISH Mouse Hippocampus | The utility of scRNA-seq reference data is **context-dependent**. It is beneficial for extremely sparse datasets like MERFISH (155 genes) but provides limited advantage for richer datasets like DLPFC Visium (33,538 genes). |
 
 <p align="center">
-  <img src="image/cibb_figure.png" alt="..." width="800"/>
+  <img src="image/cibb_figure.png" alt="..." width="600"/>
 </p>
 
 ## Quick start
