@@ -35,9 +35,9 @@ This repository contains the code and resources related to the Short paper, **"B
 
 ## ✨ Key Project Achievements
 
-The project makes several crucial contributions, particularly in the area of fine-tuning CellPLM for optimal performance and efficiency.
+The project makes a crucial contribution, particularly in the area of fine-tuning CellPLM for optimal performance and efficiency.
 
-  * **Extended Empirical Evaluation:** Conducted extensive experiments on a wide array of scRNA-seq and ST datasets (e.g., Breast Cancer, Aorta, DLPFC Visium, MERFISH mouse brain2) that were not fully covered in the original CellPLM work.
+  * **Extended Empirical Evaluation:** Conducted extensive experiments on a wide array of scRNA-seq and ST datasets (e.g.,DLPFC, Mouse Hippocampus, Breast Cancer, Colorectal Cancer, Lung) that were not fully covered in the original CellPLM work.
  
 ## 📊 Evaluation Results Summary
 
