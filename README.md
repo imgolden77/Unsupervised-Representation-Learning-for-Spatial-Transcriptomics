@@ -93,8 +93,7 @@ To reproduce the key comparison of fine-tuning efficiency and performance on a d
   * **Configuration:** Adjust hyperparameters in the relevant pipeline file, `CellPLM/CellPLM/pipeline/cell_embedding.py`.
   * **Execution:**
     ```bash
-    # Run with Supervised Contrastive Loss
-    python embedding.py
+    python embedding_zeroshot.py
     ```
   * **Metrics:** Clustering metrics (ARI, NMI) will be reported as shown in Table 2 of the paper.
 
